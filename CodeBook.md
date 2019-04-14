@@ -7,7 +7,7 @@ This code book describes and summarizes the variables and any transformations do
 1. subjectId: Test subject identifier
 2. activityId: Identifier for the type of activity that was done when the associated measurements were taken
 
-Activity Labels
+**Activity Labels**
 
 1. Walking (Id 1): test subject walked during test
 2. Walking Upstairs (Id 2): test subject walked up a set of stairs during test
@@ -17,6 +17,7 @@ Activity Labels
 6. Laying (Id 6): test subject was laying during the test
 
 **Test Measurements**
+
 "subjectId"                                        
 "activityId"                                       
 "TimeBodyAccelerometerMean()-X"                    
