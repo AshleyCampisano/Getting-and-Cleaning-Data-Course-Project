@@ -1,8 +1,4 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
----
 #**Code Book**
 
 This code book describes and summarizes the variables and any transformations done to clean up the data.
