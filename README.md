@@ -1,4 +1,4 @@
-###**README for Getting and Cleaning Data Course Project**
+**README for Getting and Cleaning Data Course Project**
 
 This repository contains the course project and related materials for the Getting and Cleaning Data course.
 
